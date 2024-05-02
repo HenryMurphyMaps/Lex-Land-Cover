@@ -1,13 +1,14 @@
 # Lex-Land-Cover
 Lab#6 showing land cover change in lexington KY
-# My area of change
-## My subtitle about the change
+# Lexington KY land cover change
+## The total percent changed of developed area from 2001-2019 is 4.54%.
 
-A short paragraph describing the change that occurred in my area.
+
+the most significant change in the Lexington area would be residential areas being built over the years. Mostly, it seems that the large urban landscape has stayed somewhat unchanged compared to the greater Lexington area outside of the main downtown landscape.
 
 ![Caption of map](LCLex.jpg)     
 *Caption of Map*
 
-[Link to high-resolution version](LCLex.pdf)     
+[https://github.com/HenryMurphyMaps/Lex-Land-Cover/blob/main/LCLex.pdf](LCLex.pdf)     
 
-Information about the author and data sources used in the analysis.
+This map was made by Henry Murphy in GEO409 at UKY. The data is from KYraster.gov.
